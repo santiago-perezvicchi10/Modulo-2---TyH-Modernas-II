@@ -57,7 +57,4 @@ Al finalizar el piloto se espera contar con:
 
 ---
 
-### El archivo puede ser descargado con el siguiente link
-file:///C:/Users/DELL/Downloads/Plan_Piloto_Temporada_2026-27.pdf
-
-Este repositorio contiene la documentación académica correspondiente al diseño del plan piloto de recuperación trazable de excedentes y envases en la industria alimentaria del Gran Mendoza.
+### Se adjunta el archivo
